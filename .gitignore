@@ -38,6 +38,7 @@ Pods/
 # Add thi line if you want to avoid checking in source code from Carthage dependencies.
 # Carthage/Checkouts
 Carthage/Build
+Carthage/Checkouts
 # fastlane
 #
 # It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
